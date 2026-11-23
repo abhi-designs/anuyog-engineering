@@ -21,8 +21,8 @@ window.ANUYOG = {
     team: "2 people across fabrication, fitting and polishing"
   },
   supabase: {
-    url: "https://YOUR-PROJECT-REF.supabase.co",
-    anonKey: "YOUR-ANON-PUBLIC-KEY"
+    url: "https://obkwmbabmnagllhqukaq.supabase.co",
+    anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9ia3dtYmFibW5hZ2xsaHF1a2FxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU0MDAwMDAsImV4cCI6MjExMDk3NjAwMH0.52cX0LpvEjMxFVvAmTDiGKuc70D5hdVlXUu6PT7r2TU"
   },
   // Shown on the privacy page. Must match the region you pick when creating the Supabase project.
   dataRegion: "Mumbai, India (ap-south-1)",
