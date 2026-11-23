@@ -3,6 +3,10 @@
 Static site (plain HTML/CSS/JS, no build step) + Supabase for the catalogue, the inquiry inbox and the staff login.
 Host it anywhere static: GitHub Pages, Netlify, Vercel, Hostinger.
 
+## Status
+
+Steps 1–3 are **already done**: the Supabase project `anuyog-engineering` (Mumbai) exists, the schema and seed data are loaded, and `assets/config.js` points at it. What's left for you is step 4 (your admin login) and step 5 (upload), plus step 6.
+
 ## Set up (about 15 minutes)
 
 1. **Create a Supabase project** at supabase.com. Pick the region closest to your customers (Mumbai, `ap-south-1`). Use a strong database password.
